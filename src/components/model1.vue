@@ -69,7 +69,7 @@ export default {
         margin: 10px 100px 10px 20px;
         font-size: xx-large; 
     }
-    #A{
+    /*#A{
         float: left;
     }
     #G{
@@ -78,5 +78,5 @@ export default {
     #thirdLine li{
         margin: 10px 100px 10px 20px;
         font-size: xx-large;
-    }
+    } */
 </style>
